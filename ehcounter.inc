@@ -18,14 +18,8 @@
   file in which you are including this script.
 
 
-
   This script requires connection to a MySQL database.
 
-$ip = realip();
-$ref = $r; //$_SERVER["HTTP_REFERER"];
-$browser =  $_SERVER['HTTP_USER_AGENT'];
-$end_of_today = strtotime(date("j M Y")." 23:59:59");
-$begin_of_today = strtotime(date("j M Y")." 00:00:00");
 */
 
 # FUNCTIONS ========================================================================================
