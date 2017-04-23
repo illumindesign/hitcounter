@@ -14,11 +14,12 @@
 
   include("ehcounter.inc");
 
-  Make sure this is in the same directory as the
+  *Make sure this is in the same directory as the
   file in which you are including this script.
 
-
-  This script requires connection to a MySQL database.
+  *This script requires connection to a MySQL database.
+  
+  *GeoIP is required for some of the functions.
 
 */
 
